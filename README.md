@@ -1,6 +1,6 @@
 # lab1
 
 Перша лабораторна робота з курсу "Програмування мобільних систем". Створений простий Flutter додаток на Android зі зміненою іконкою.
-![](https://imgur.com/a/D29HVl3)  |  ![](https://imgur.com/nQACrBt)
+![](https://imgur.com/a/D29HVl3) ![](https://imgur.com/nQACrBt)
 
 
