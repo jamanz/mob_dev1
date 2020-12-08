@@ -7,4 +7,9 @@
   <img src="https://i.imgur.com/nQACrBt.png" width="250" /> 
 </p>
 
+# lab2 
+
+Жодних проблем при виконанні 2 лр не виникло.
+
+
 
